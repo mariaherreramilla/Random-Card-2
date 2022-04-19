@@ -1,0 +1,22 @@
+i,
+h1 {
+  color: red;
+}
+body {
+  background: green;
+}
+#numero {
+  font-size: xx-large;
+}
+#pinta2 {
+  transform: rotate(180deg);
+  color: red;
+}
+#card {
+  height: 600px;
+  width: 400px;
+  margin: 50px;
+  padding: 30px;
+  border-radius: 30px;
+}
+
